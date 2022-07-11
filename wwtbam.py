@@ -96,7 +96,7 @@ with open('used.txt','a') as f:
         return result
 
 
-    for l in range(12,14):
+    for l in range(1,14):
         amount = levels[l]
         print('\n')
         print("For " + amount + "...")
